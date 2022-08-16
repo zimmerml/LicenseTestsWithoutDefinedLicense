@@ -4,4 +4,4 @@ on: [push, pull_request]
 
 jobs:
   call-license-check-workflow:
-    uses: zimmerml/LicenseTestsWithDefinedLicense/.github/workflows/license-check.yml@1
+    uses: OpenTOSCA/license-engine/.github/workflows/license-check.yml@master
