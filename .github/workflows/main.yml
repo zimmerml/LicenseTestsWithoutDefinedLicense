@@ -4,4 +4,4 @@ on: [push, pull_request]
 
 jobs:
   call-license-check-workflow:
-    uses: OpenTOSCA/license-engine/.github/workflows/license-check.yml@master
+    uses: OpenTOSCA/license-engine/.github/workflows/license-check.yml@main
