@@ -1,4 +1,4 @@
-name: Reuse Check License Workflow
+name: Check Licenses
 
 on: [push, pull_request]
 
