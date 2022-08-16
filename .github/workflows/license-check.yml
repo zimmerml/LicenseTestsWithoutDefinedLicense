@@ -46,7 +46,7 @@ jobs:
           
       - name: Echo defined license of repository
         if: steps.get_repo_license.outcome == 'success'
-        run: "echo defined license: ${{ fromJson(steps.get_defined_license.outputs.data).license.spdx_id }}"
+        run: "echo defined license: ${{ fromJson(steps.get_repo_license.outputs.data).license.spdx_id }}"
           
       - name: Run License Engine with predefined license to be checked against
         if: steps.get_repo_license.outcome == 'success'
