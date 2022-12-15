@@ -1,4 +1,5 @@
-[![Check Licenses](https://github.com/zimmerml/LicenseTestsWithoutDefinedLicense/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zimmerml/LicenseTestsWithoutDefinedLicense/actions/workflows/main.yml)
+[![Check Licenses](https://github.com/zimmerml/LicenseTestsWithoutDefinedLicense/actions/workflows/main.yml/badge.svg?branch=fail)](https://github.com/zimmerml/LicenseTestsWithoutDefinedLicense/actions/workflows/main.yml)
+
 
 # LicenseTests
 
