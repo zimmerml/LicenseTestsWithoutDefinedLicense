@@ -1,6 +1,6 @@
 name: Check Licenses
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
   call-license-check-workflow:
